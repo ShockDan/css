@@ -1,5 +1,5 @@
-<style>
-.button {
+
+.button23 {
   background-color: #007bff !important;
   color: white !important;
   border: none !important;
@@ -9,7 +9,6 @@
   cursor: pointer !important;
 }
 
-.button:hover {
+.button23:hover {
   background-color: #0056b3 !important;
 }
-</style>
